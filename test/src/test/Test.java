@@ -8,7 +8,7 @@ public class Test {
 		System.out.println("jw");
 		
 		
-		System.out.println("ssssssssssssss");
+		int cant;
 	}
 
 }
